@@ -1,0 +1,5 @@
+require 'chris.options'
+require 'chris.plugins'
+require 'chris.highlights'
+require 'chris.keymaps'
+require 'chris.colorscheme'
